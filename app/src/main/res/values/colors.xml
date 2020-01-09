@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <drawable name="color_num">#343334</drawable>
+    <drawable name="color_num_pressed">#6B6A6B</drawable>
+
+    <drawable name="color_top_operation_bg">#A8A6A7</drawable>
+    <drawable name="color_top_operation_pressed_bg">#DAD8D9</drawable>
+
+    <drawable name="color_right_operation_bg">#ff9403</drawable>
+    <drawable name="color_right_operation_pressed_bg">#FFFFFF</drawable>
+
+    <drawable name="color_right_operation_text">#FFFFFF</drawable>
+    <drawable name="color_right_operation_pressed_text">#ff9403</drawable>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+</resources>
